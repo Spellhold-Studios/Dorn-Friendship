@@ -3,7 +3,7 @@
 [![Downloads](https://img.shields.io/github/downloads/Spellhold-Studios/Dorn-Friendship/total?color=%2392403a)](https://github.com/Spellhold-Studios/Dorn-Friendship/releases)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%a0%20macOS%20%a0%20Linux%20%a0%20Project%20Infinity-%2392403a)](https://github.com/Spellhold-Studios/Dorn-Friendship/releases)
 [![Games](https://img.shields.io/badge/games-BG2%3AEE%20%a0%20EET-%2392403a)](https://github.com/Spellhold-Studios/Dorn-Friendship/releases)
-[![Language](https://img.shields.io/badge/language-en-%2392403a)](https://github.com/Spellhold-Studios/Dorn-Friendship/releases)
+[![Language](https://img.shields.io/badge/language-en%20%a0%20ru-%2392403a)](https://github.com/Spellhold-Studios/Dorn-Friendship/releases)
 
 <!--
 Badges white space separator: %20%a0%20
@@ -11,6 +11,7 @@ Badges ":" (colon) symbol: %3A
 Badges "-" (hyphen) symbol: --
 Games full list: BG1 BG2 BGT BG%3AEE SoD BG2%3AEE EET IWD1 IWD2 IWD%3AEE PST PST%3AEE
 IETF language tags: https://spellhold-studios.github.io/assets/docs/ietf-lang-tags.pdf
+Common language tags: en cs de es fr it ja ko pl pt--BR ru zh--CN zh--TW
 Why some badges update slowly: https://github.com/pujux/badge-it/issues/78
 -->
 
