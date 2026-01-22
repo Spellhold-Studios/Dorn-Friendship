@@ -8,9 +8,10 @@ AUTO_TRA ~DornFriendship/translations/%s~
 LANGUAGE ~English~
          ~English~
          ~DornFriendship/translations/english/setup.tra~
-         
-LANGUAGE ~Russian (by Jarly)~
+
+LANGUAGE ~Russian (translation by Jarly)~
          ~Russian~
+         ~DornFriendship/translations/english/setup.tra~
          ~DornFriendship/translations/russian/setup.tra~
 
 BEGIN @1
