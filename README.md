@@ -51,3 +51,7 @@ This mod adds a series of dialogues with Dorn.
 
 - Dalmir_The_Dark &nbsp;&ndash;&nbsp; proofreading and editing
 - hook71 &nbsp;&ndash;&nbsp; additional text clean-up
+
+**Translators**  
+
+- **Russian**:&nbsp; Jarly

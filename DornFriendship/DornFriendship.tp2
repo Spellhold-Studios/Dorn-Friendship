@@ -1,6 +1,6 @@
 BACKUP ~DornFriendship/backup~
 AUTHOR ~Lava Del'Vortel~
-VERSION ~1.1~
+VERSION ~1.2~
 README ~DornFriendship/Dornfriendship-readme-%LANGUAGE%.html~ ~dornfriendship/dornfriendship-readme-english.html~
 
 AUTO_TRA ~DornFriendship/translations/%s~
@@ -8,6 +8,11 @@ AUTO_TRA ~DornFriendship/translations/%s~
 LANGUAGE ~English~
          ~English~
          ~DornFriendship/translations/english/setup.tra~
+
+LANGUAGE ~Russian (translation by Jarly)~
+         ~Russian~
+         ~DornFriendship/translations/english/setup.tra~
+         ~DornFriendship/translations/russian/setup.tra~
 
 BEGIN @1
 DESIGNATED 0 LABEL ~Dorn_friendship~
